@@ -1,1 +1,1 @@
-list file in list format
+list long fortmat showing hidden file
