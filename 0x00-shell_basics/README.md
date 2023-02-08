@@ -1,1 +1,1 @@
-list long fortmat showing hidden file
+long list all file and user name
