@@ -1,1 +1,1 @@
-set mode
+current directory ownership permission
