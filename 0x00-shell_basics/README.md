@@ -1,1 +1,1 @@
-copy html
+symbol link
