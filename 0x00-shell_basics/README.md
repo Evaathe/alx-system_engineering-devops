@@ -1,1 +1,1 @@
-create betty
+betty removed
