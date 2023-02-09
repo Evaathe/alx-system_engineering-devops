@@ -1,1 +1,1 @@
-group and user owner change
+symbolic permission
