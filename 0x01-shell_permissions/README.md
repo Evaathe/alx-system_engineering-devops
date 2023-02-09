@@ -1,1 +1,1 @@
-preset mode
+reset permission
