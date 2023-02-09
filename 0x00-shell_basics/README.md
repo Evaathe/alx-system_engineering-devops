@@ -1,1 +1,1 @@
-delect my first directory
+back script
