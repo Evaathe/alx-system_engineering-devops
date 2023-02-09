@@ -1,1 +1,1 @@
-dir permissin
+group ownership change
