@@ -1,1 +1,1 @@
-excute permit
+excute hello
