@@ -1,1 +1,1 @@
-symbolic permission
+conditioned change ownership
