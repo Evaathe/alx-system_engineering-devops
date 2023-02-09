@@ -1,1 +1,1 @@
-creat directory script
+create betty
