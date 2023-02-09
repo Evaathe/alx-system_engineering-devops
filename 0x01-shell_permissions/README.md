@@ -1,1 +1,1 @@
-group ownership change
+group and user owner change
