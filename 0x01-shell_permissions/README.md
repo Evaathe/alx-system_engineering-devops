@@ -1,1 +1,1 @@
-reset permission
+set mode
