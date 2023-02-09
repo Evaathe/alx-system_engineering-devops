@@ -1,1 +1,1 @@
-print alll groups
+change ownership
