@@ -1,1 +1,1 @@
-current directory ownership permission
+dir permissin
