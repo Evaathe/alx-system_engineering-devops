@@ -1,1 +1,1 @@
-betty removed
+delect my first directory
