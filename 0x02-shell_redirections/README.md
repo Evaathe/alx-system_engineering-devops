@@ -1,1 +1,1 @@
-makw directory count
+print working directory files
