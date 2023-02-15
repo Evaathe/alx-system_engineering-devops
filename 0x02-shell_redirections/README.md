@@ -1,1 +1,1 @@
-display lines that contain bin
+display partner lines
