@@ -1,1 +1,1 @@
-display partner lines
+lines without pattern
