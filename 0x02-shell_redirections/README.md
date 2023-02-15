@@ -1,1 +1,1 @@
-lines without pattern
+display file with letter a

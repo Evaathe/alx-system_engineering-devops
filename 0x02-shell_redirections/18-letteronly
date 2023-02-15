@@ -1,0 +1,2 @@
+#!/bin/bash
+egrep ^ [[c:alpha:]] /etc/ssh/sshd_config
