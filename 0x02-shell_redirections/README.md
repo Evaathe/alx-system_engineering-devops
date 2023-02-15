@@ -1,1 +1,1 @@
-cat two file
+print tail
