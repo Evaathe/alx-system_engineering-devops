@@ -1,1 +1,1 @@
-display line
+display lines that contain bin
