@@ -1,1 +1,1 @@
-print smiley output
+cat hello file
