@@ -1,1 +1,1 @@
-print in standard output
+print smiley output
