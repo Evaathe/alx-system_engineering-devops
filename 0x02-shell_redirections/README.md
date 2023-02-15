@@ -1,1 +1,1 @@
-print tail
+print firstlines
