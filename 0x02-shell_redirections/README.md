@@ -1,1 +1,1 @@
-remove letter c
+reverse
