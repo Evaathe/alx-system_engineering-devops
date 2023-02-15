@@ -1,1 +1,1 @@
-delete .js files
+makw directory count
